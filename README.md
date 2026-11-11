@@ -58,12 +58,9 @@ To stand out in the web/data sector, here are the core projects I am building an
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash552003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash552003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yash's Top Languages" />
-</div>
 
-<br>
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash552003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=1)
 
-<div align="center">
-  <i>"Always learning, always building. When I'm not writing code, I'm trekking the Sahyadris or riding my motorcycle."</i>
+![Yash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash552003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=1)
+
 </div>
