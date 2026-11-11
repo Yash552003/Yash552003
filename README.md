@@ -55,8 +55,9 @@ To stand out in the web/data sector, here are the core projects I am building an
 
 ---
 
+
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash552003&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Yash's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash552003&theme=tokyonight&hide_border=true&background=0D1117" alt="Yash's GitHub Streak" />
 </div>
