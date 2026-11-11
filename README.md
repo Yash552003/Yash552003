@@ -59,8 +59,8 @@ To stand out in the web/data sector, here are the core projects I am building an
 
 <div align="center">
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash552003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=1)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash552003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2)
 
-![Yash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash552003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=1)
+![Yash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash552003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2)
 
 </div>
